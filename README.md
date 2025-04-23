@@ -16,13 +16,17 @@
 Understanding consumer behavior is essential for tailoring marketing strategies, especially in sectors like retail and transportation. This report analyzes a dataset focusing on bike purchase behavior across various demographics. The goal is to identify key trends, influencing factors, and actionable insights to support data-driven business decisions.
 
 
-
-
 ### Objectives
-- Customer Demographics Analysis (Identify the characteristics (age, income, marital status, education) of bike buyers vs. non-buyers).
+
+ 
+—  Customer Demographics Analysis (Identify the characteristics (age, income, marital status, education) of bike buyers vs. non-buyers).
+  
 — Behavioral Factors (Examine how commuting distance, car ownership, and home ownership affect bike purchase decisions).
+
 — Regional Trends (Determine which regions have the highest bike purchase rates).
+
 — Occupational and Educational Insights (Assess how occupation and education level influence bike purchases).
+
 — Age Group Analysis (Identify age brackets most likely to purchase bikes).
 
 ### Tools
