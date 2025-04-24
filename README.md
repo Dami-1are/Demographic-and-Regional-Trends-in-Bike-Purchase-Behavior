@@ -73,6 +73,8 @@ My analysis shows Education has a positive impact on bike sales. Individuals wit
 
 Trends based on commute distance?
 
+![Image Alt](https://github.com/Dami-1are/Demographic-and-Regional-Trends-in-Bike-Purchase-Behavior/blob/688e43111fe955b7f0f0c5ace2a58a63f757af67/Bike%20Purchase%20by%20Commute%20Distance.png)
+
 There is a clear inverse relationship between commute distance and bike purchases. The shorter the commute, the higher the bike adoption rate. This trend suggests that targeting urban dwellers or those with short commutes could significantly boost sales, especially when combined with messaging around health, time-saving, and environmental impact.
 
 5. Bike Purchase by Occupation.
