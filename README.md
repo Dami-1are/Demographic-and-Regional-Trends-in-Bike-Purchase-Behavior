@@ -15,6 +15,7 @@
 
 Understanding consumer behavior is essential for tailoring marketing strategies, especially in sectors like retail and transportation. This report analyzes a dataset focusing on bike purchase behavior across various demographics. The goal is to identify key trends, influencing factors, and actionable insights to support data-driven business decisions.
 
+![Image Alt](https://github.com/Dami-1are/Demographic-and-Regional-Trends-in-Bike-Purchase-Behavior/blob/91a28e35034b87b3c463022d18030260afd09a47/Screenshot%202025-04-15%20111403.png)
 
 ### Objectives
  
