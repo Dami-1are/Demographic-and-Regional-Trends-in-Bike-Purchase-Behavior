@@ -53,17 +53,18 @@ My analysis shows Bike purchases are most common among middle-income earners, pa
 
 2. Effect of Marital Status.
 The impact of marital status on bike sales?
+![Image Alt](https://github.com/Dami-1are/Demographic-and-Regional-Trends-in-Bike-Purchase-Behavior/blob/a165d4f5882be1a956d2e541b634522c950e88fd/Bike%20Purchase%20by%20Marital%20Status.png)
 My analysis shows that Single individuals are more likely to purchase bikes than married individuals. While both groups have a significant number of buyers, the proportion of buyers is higher among singles, suggesting that lifestyle or personal mobility needs may influence bike purchasing decisions more among singles
 
-3. Effect of Education.
+4. Effect of Education.
 The impact of education on bike sales?
 My analysis shows Education has a positive impact on bike sales. Individuals with higher education levels (Bachelor’s and Graduate Degrees) are more likely to purchase bikes, while those with lower levels of education are less likely to do so
 
-4. Commute Distance Impact.
+5. Commute Distance Impact.
 Trends based on commute distance?
 There is a clear inverse relationship between commute distance and bike purchases. The shorter the commute, the higher the bike adoption rate. This trend suggests that targeting urban dwellers or those with short commutes could significantly boost sales, especially when combined with messaging around health, time-saving, and environmental impact.
 
-5. Bike Purchase by Occupation.
+6. Bike Purchase by Occupation.
 The impact of occupation on bike sales?
 ![Image Alt](https://github.com/Dami-1are/Demographic-and-Regional-Trends-in-Bike-Purchase-Behavior/blob/4862bd959bd733ca17408152c0d6f5528081fa39/Bike%20Purchase%20by%20Occcupation.png)
 
