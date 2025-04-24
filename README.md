@@ -48,25 +48,26 @@ This focuses on summarizing historical data to understand what happened in the p
 The analysis results are summarised as follows:
 1. Bike Purchase by Income Level.
 How does income level influence bike purchases?
+![Image Alt](https://github.com/Dami-1are/Demographic-and-Regional-Trends-in-Bike-Purchase-Behavior/blob/e64c9e0109c658f7110c487bf9f2f8f57ebe4411/Bile%20Purchase%20by%20Income.png)
 My analysis shows Bike purchases are most common among middle-income earners, particularly between $30,000 and $70,000. Purchases decrease significantly as income increases beyond this range, possibly because higher earners may opt for other modes of transportation or lifestyle choices.
 
-2. Effect of Marital Status.
+3. Effect of Marital Status.
 The impact of marital status on bike sales?
 My analysis shows that Single individuals are more likely to purchase bikes than married individuals. While both groups have a significant number of buyers, the proportion of buyers is higher among singles, suggesting that lifestyle or personal mobility needs may influence bike purchasing decisions more among singles
 
-3. Effect of Education.
+4. Effect of Education.
 The impact of education on bike sales?
 My analysis shows Education has a positive impact on bike sales. Individuals with higher education levels (Bachelor’s and Graduate Degrees) are more likely to purchase bikes, while those with lower levels of education are less likely to do so
 
-4. Commute Distance Impact.
+5. Commute Distance Impact.
 Trends based on commute distance?
 There is a clear inverse relationship between commute distance and bike purchases. The shorter the commute, the higher the bike adoption rate. This trend suggests that targeting urban dwellers or those with short commutes could significantly boost sales, especially when combined with messaging around health, time-saving, and environmental impact.
 
-5. Bike Purchase by Occupation.
+6. Bike Purchase by Occupation.
 The impact of occupation on bike sales?
 Occupation significantly impacts bike sales. Professionals and Skilled Manual workers are more likely to purchase bikes, possibly due to lifestyle, income level, or commuting patterns. In contrast, Manual and Management occupations show lower purchase rates, potentially due to job nature, commuting distances, or alternative transport options.
 
-6. Regional Trends
+7. Regional Trends
 Trends based on region?
 The Pacific region demonstrates the highest rate of bike purchases, indicating strong cultural or infrastructural support. Europe presents a balanced and consistent adoption pattern, suggesting widespread acceptance of biking as a transportation mode. In contrast, North America, despite a significant number of buyers, shows lower proportional interest highlighting potential for growth through strategic investment in infrastructure and targeted marketing efforts.
 
