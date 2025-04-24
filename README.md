@@ -17,7 +17,6 @@ Understanding consumer behavior is essential for tailoring marketing strategies,
 
 
 ### Objectives
-
  
 —  Customer Demographics Analysis (Identify the characteristics (age, income, marital status, education) of bike buyers vs. non-buyers).
   
