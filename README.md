@@ -69,6 +69,7 @@ Occupation significantly impacts bike sales. Professionals and Skilled Manual wo
 
 7. Regional Trends
 Trends based on region?
+![Image Alt](https://github.com/Dami-1are/Demographic-and-Regional-Trends-in-Bike-Purchase-Behavior/blob/1a3fb9f61997f6e3afb1d40c4c44f3aef1dbc5cf/Bike%20Purchase%20by%20Region.png)
 The Pacific region demonstrates the highest rate of bike purchases, indicating strong cultural or infrastructural support. Europe presents a balanced and consistent adoption pattern, suggesting widespread acceptance of biking as a transportation mode. In contrast, North America, despite a significant number of buyers, shows lower proportional interest highlighting potential for growth through strategic investment in infrastructure and targeted marketing efforts.
 
 ### Recommendation
