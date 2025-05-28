@@ -19,15 +19,15 @@ Understanding consumer behavior is essential for tailoring marketing strategies,
 
 ### Objectives
  
-—  Customer Demographics Analysis (Identify the characteristics (age, income, marital status, education) of bike buyers vs. non-buyers).
+-  Customer Demographics Analysis (Identify the characteristics (age, income, marital status, education) of bike buyers vs. non-buyers).
   
-— Behavioral Factors (Examine how commuting distance, car ownership, and home ownership affect bike purchase decisions).
+- Behavioral Factors (Examine how commuting distance, car ownership, and home ownership affect bike purchase decisions).
 
-— Regional Trends (Determine which regions have the highest bike purchase rates).
+- Regional Trends (Determine which regions have the highest bike purchase rates).
 
-— Occupational and Educational Insights (Assess how occupation and education level influence bike purchases).
+- Occupational and Educational Insights (Assess how occupation and education level influence bike purchases).
 
-— Age Group Analysis (Identify age brackets most likely to purchase bikes).
+- Age Group Analysis (Identify age brackets most likely to purchase bikes).
 
 ### Tools
 -  Excel - Data Cleaning
